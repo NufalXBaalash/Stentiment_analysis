@@ -1,4 +1,4 @@
-# Sentiment Analysis of Twitter and Reddit Reviews
+# 📈 Sentiment Analysis of Twitter and Reddit Reviews
 
 ![Sentiment Analysis Banner](https://i.pinimg.com/736x/8c/7c/cd/8c7ccda4bf8a6a09da1d4487ccf4cf90.jpg)
 
@@ -65,9 +65,9 @@ def preprocessing(text):
 ## 📈 Exploratory Data Analysis
 
 ### Sequence Length Distribution
-![Sequence Length Distribution](https://www.researchgate.net/publication/344416264/figure/fig1/AS:939860202778624@1600924495906/Example-of-sentiment-analysis-using-textblob.png)
 
 ### Top 10 Important Words
+
 ```mermaid
 graph LR
     A[modi] --> B[like]
