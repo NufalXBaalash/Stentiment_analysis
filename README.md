@@ -1,6 +1,6 @@
 # Sentiment Analysis of Twitter and Reddit Reviews
 
-![Sentiment Analysis Banner](https://miro.medium.com/v2/resize:fit:1400/1*MFUVZfQaHXy3iH7S4Q2R5Q.png)
+![Sentiment Analysis Banner](https://i.pinimg.com/736x/8c/7c/cd/8c7ccda4bf8a6a09da1d4487ccf4cf90.jpg)
 
 ## 📌 Project Overview
 This project performs comprehensive sentiment analysis on user-generated reviews from Twitter and Reddit to classify text as **positive**, **negative**, or **neutral**. The analysis includes:
