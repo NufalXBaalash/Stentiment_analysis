@@ -1,5 +1,6 @@
 # 📈 Sentiment Analysis of Twitter and Reddit Reviews
 
+
 ![Sentiment Analysis Banner](https://i.pinimg.com/736x/8c/7c/cd/8c7ccda4bf8a6a09da1d4487ccf4cf90.jpg)
 
 ## 📌 Project Overview
@@ -162,6 +163,3 @@ This project utilizes:
 - Scikit-learn for machine learning utilities
 - Matplotlib and Seaborn for visualizations
 
----
-
-**For the complete implementation, explore the [Jupyter Notebook](notebooks/Sentiment_analysis.ipynb)**
